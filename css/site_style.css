@@ -1,0 +1,23 @@
+#buy_now, .img-responsive {
+    padding-top: 20px;
+}
+
+form {
+    padding-top: 20px;
+}
+
+.h1, h1 {
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 45px !important;
+    font-weight: 900 !important;
+
+}
+.h2,h2 {
+    font-familhy:'Open Sans',sans-serif !important;
+    opacity: .7 !important;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: medium;
+}
